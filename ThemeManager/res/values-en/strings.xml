@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Theme Manager</string>
+    <string name="theme_activity_button_cancel">Cancel</string>
+    <string name="theme_activity_button_done">OK</string>
+    <string name="theme_activity_lable">Theme Manager</string>
+    <string name="theme_add_more">Load theme(s)</string>
+    <string name="theme_category_available">Available Themes</string>
+    <string name="theme_category_selected">Current Themes</string>
+    <string name="theme_changed_dialog_title">Installation successful!</string>
+    <string name="theme_changed_reboot_dialog_message">Theme has been successfully installed, please reboot now for changes to take effect.</string>
+    <string name="theme_changing_dialog_title">Preparing new theme, please wait...</string>
+    <string name="theme_default_author">MIUI</string>
+    <string name="theme_default_title">MIUI Default Theme</string>
+    <string name="theme_delete_confirm_dialog_message">This action does not affect the effect the current theme, just remove the theme files.</string>
+    <string name="theme_delete_confirm_dialog_title">Remove theme packages</string>
+    <string name="theme_description_author">Author：</string>
+    <string name="theme_description_reboot">(You need to restart)</string>
+    <string name="theme_description_size">Size：</string>
+    <string name="theme_description_version">Version：</string>
+    <string name="theme_reboot_button_cancel">Reboot later</string>
+    <string name="theme_reboot_button_done">Reboot now</string>
+    <string name="theme_sdcard_missed_dialog_message">Make sure the memory card is inserted, and the phone is not in data transfer mode.</string>
+    <string name="theme_sdcard_missed_dialog_title">Memory card is not accessible</string>
+    <string name="theme_unknow_author">Unknown</string>
+</resources>

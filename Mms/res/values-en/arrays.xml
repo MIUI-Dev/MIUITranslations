@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-D</item>
+        <item>:-P</item>
+        <item>:-Z</item>
+        <item>o_06</item>
+        <item>(-D</item>
+        <item>:-h</item>
+        <item>:-$</item>
+        <item>:\'(</item>
+        <item>(F)</item>
+        <item>:-(</item>
+        <item>:-#</item>
+		<item>B-)</item>
+		<item>:-*</item>
+		<item>:"&gt;</item>
+		<item>:x</item>
+        <item>:-)</item>
+        <item>&lt;3</item>
+        <item>:@</item>
+        <item>:-||</item>
+        <item>(Well done)</item>
+        <item>:-s</item>
+        <item>:-O</item>
+        <item>WTF!</item>
+        <item>|-)</item>
+        <item>Meh!</item>
+		<item>:-bd</item>
+		<item>:-q</item>
+        <item>(Thanks)</item>
+        <item>||*)</item>
+        <item>:-)&gt;-</item>
+        <item>(OK)</item>
+        <item>(^*^)</item>
+    </string-array>
+    <string-array name="default_insert_attach_names">
+        <item>Pictures</item>
+        <item>Photos</item>
+        <item>Contact</item>
+        <item>Favorites</item>
+    </string-array>
+    <string-array name="led_color_entries">
+        <item>White</item>
+        <item>Green</item>
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Cyan</item>
+        <item>Magenta</item>
+        <item>Pink</item>
+        <item>Orange</item>
+        <item>Sapphire</item>
+    </string-array>
+    <string-array name="led_color_values">
+        <item>White</item>
+        <item>Green</item>
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Cyan</item>
+        <item>\#800080</item>
+        <item>\#ffc0cb</item>
+        <item>\#ffa500</item>
+        <item>\#add8e6</item>
+    </string-array>
+    <string-array name="led_color_entries_for_milestone">
+        <item>Green</item>
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Sapphire</item>
+        <item>Cyan</item>
+        <item>Orange</item>
+    </string-array>
+    <string-array name="led_color_values_for_milestone">
+        <item>Green</item>
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Cyan</item>
+        <item>\#800080</item>
+        <item>\#ffa500</item>
+    </string-array>
+    <string-array name="font_size_entries">
+        <item>Small font</item>
+        <item>Normal font</item>
+        <item>Large font</item>
+    </string-array>
+    <string-array name="font_size_values">
+        <item>small</item>
+        <item>medium</item>
+        <item>large</item>
+    </string-array>
+    <string-array name="more_attachment_texts">
+        <item>Photos</item>
+        <item>Pictures</item>
+        <item>Video</item>
+        <item>Shoot video</item>
+        <item>Audio</item>
+        <item>Recording</item>
+        <item>Slideshow</item>
+        <item>Favorites</item>
+    </string-array>
+    <string-array name="color_picker_colors">
+        <item>\#edecda</item>
+        <item>\#f6e3e1</item>
+        <item>\#9599c7</item>
+        <item>\#d4ecce</item>
+        <item>\#e7e4a6</item>
+        <item>\#e4decf</item>
+        <item>\#d8d8d8</item>
+        <item>\#f2eae1</item>
+        <item>\#e9e4bd</item>
+        <item>\#b8c6cf</item>
+        <item>\#743793</item>
+        <item>\#a39a88</item>
+        <item>\#005991</item>
+        <item>\#434343</item>
+        <item>\#5c4942</item>
+        <item>\#ec6d00</item>
+        <item>\#405d53</item>
+        <item>\#54ad6b</item>
+        <item>\#0098d5</item>
+        <item>\#a1081e</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 second</item>
+        <item>2 seconds</item>
+        <item>3 seconds</item>
+        <item>4 seconds</item>
+        <item>5 seconds</item>
+        <item>6 seconds</item>
+        <item>7 seconds</item>
+        <item>8 seconds</item>
+        <item>9 seconds</item>
+        <item>10 seconds</item>
+        <item>Other...</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Always</item>
+        <item>Only when silent</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="prefValues_vibrateWhen">
+        <item>always</item>
+        <item>silent</item>
+        <item>never</item>
+    </string-array>
+    <item type="array" name="APKTOOL_DUMMY_000a">false</item>
+</resources>
