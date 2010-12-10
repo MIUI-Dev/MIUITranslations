@@ -146,11 +146,13 @@
     <string name="email_work">Email work</string>
     <string name="eventLabelsGroup">Event</string>
     <string name="export_to_sdcard">Export to SD card</string>
+    <string name="export_to_sim">导出到SIM卡</string>
     <string name="exporting_contact_failed_message">Failed to export contact data.\nReason for failure: \"%s\"</string>
     <string name="exporting_contact_failed_title">Failed to export contact data</string>
     <string name="exporting_contact_list_message">Exporting contact data to \"%s\"</string>
     <string name="exporting_contact_list_progress">%1$s of %2$s contacts</string>
     <string name="exporting_contact_list_title">Exporting contact data</string>
+    <string name="extendSelection">选择【%s】到【%s】</string>
     <string name="fail_message_account_needed">Please configure your MIUI account</string>
     <string name="fail_reason_could_not_initialize_exporter">Could not initialize the exporter: \"%s\"</string>
     <string name="fail_reason_could_not_open_file">Could not open \"%1$s\": %2$s</string>
@@ -222,6 +224,7 @@
     <string name="map_other">View address</string>
     <string name="map_work">View work address</string>
     <string name="meid">MEID</string>
+    <string name="menuSelectAll">选择全部号码</string>
     <string name="menu_accounts">Accounts</string>
     <string name="menu_add">Add</string>
     <string name="menu_addStar">Add to Favorites</string>
@@ -362,8 +365,12 @@
     <string name="shortcutMessageContact">Direct message</string>
     <string name="showAllContactsJoinItem">Show all contacts</string>
     <string name="showDialpadTip">Show Dialpad</string>
+    <string name="simCard">SIM卡</string>
     <string name="simContacts_emptyLoading">Loading from SIM card...</string>
     <string name="simContacts_title">SIM card contacts</string>
+    <string name="simExportCancelled">复制已取消\n%s个联系人中有%s个已经被复制至SIM卡.</string>
+    <string name="simExportLoadingAdn">正在读取SIM卡信息。此操作可能会花一分钟时间，请耐心等候。</string>
+    <string name="simExportNoSpace">SIM卡空间不足，需要存储%s个联系人，但最多只能存储%s个</string>
     <string name="sms_assistant">Text %s</string>
     <string name="sms_callback">Text callback</string>
     <string name="sms_car">Text car</string>
