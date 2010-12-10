@@ -243,7 +243,7 @@
     <string name="bluetooth_confirm_passkey_msg">To pair with \"%1$s\", confirm that it is showing the passkey: %2$s.</string>
     <string name="bluetooth_connect_specific_profiles_title">Connect to...</string>
     <string name="bluetooth_connected">Connected</string>
-    <string name="bluetooth_connecting">Connecting…</string>
+    <string name="bluetooth_connecting">Connecting...</string>
     <string name="bluetooth_connecting_error_message">There was a problem connecting to %1$s.</string>
     <string name="bluetooth_device">handsfree/headset</string>
     <string name="bluetooth_device_advanced_online_mode_summary">Connect to Bluetooth device</string>
@@ -551,10 +551,10 @@
     <string name="language_settings_title">Language &amp; Input Settings</string>
     <string name="large_font">Large</string>
     <string name="launch_count_label">Count</string>
-    <string name="launcher_settings_title">启动器</string>
-    <string name="led_colors">LED灯颜色</string>
-    <string name="led_frequence">LED灯闪烁频率</string>
-    <string name="led_settings">LED灯</string>
+    <string name="launcher_settings_title">Launcher Settings</string>
+    <string name="led_colors">LED Colors</string>
+    <string name="led_frequence">LED Frequency</string>
+    <string name="led_settings">LED Settings</string>
     <string name="legal_information">Legal Information</string>
     <string name="license_title">License</string>
     <string name="link_speed_label">Link Speed:</string>
