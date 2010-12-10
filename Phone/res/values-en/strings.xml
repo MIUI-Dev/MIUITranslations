@@ -106,6 +106,9 @@
     <string name="current_areacode_sum">Area code of current location, or roaming area code if you are roaming. For example: 010</string>
     <string name="data_enable_summary">Enable data access over Mobile network</string>
     <string name="data_enabled">Data enabled</string>
+    <string name="deleteAllSimContacts">清空SIM卡联系人</string>
+    <string name="deleteAllSimContactsText">正在清空SIM卡联系人</string>
+    <string name="deleteSimEntry">删除</string>
     <string name="delete_fdn_contact">Delete fixed dialing number</string>
     <string name="deleting_fdn_contact">Deleting fixed dialing number…</string>
     <string name="dial_button_label">Dial</string>
