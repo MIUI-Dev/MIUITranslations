@@ -31,8 +31,8 @@
     <string name="group_wallpapers">Wallpapers</string>
     <string name="group_widgets">Widgets</string>
     <string name="lockscreenwallpaper_instructions">Set Lockscreen Wallpaper</string>
-    <string name="lrc_search_failed">未找到歌词…</string>
-    <string name="lrc_searching">歌词搜索中…</string>
+    <string name="lrc_search_failed">Lyrics not found!</string>
+    <string name="lrc_searching">Searching for lyrics...</string>
     <string name="menu_add">Add</string>
     <string name="menu_edit">Editing Mode</string>
     <string name="menu_gestures">Gestures</string>
@@ -52,12 +52,12 @@
     <string name="permlab_write_settings">write Home settings and shortcuts</string>
     <string name="pick_lockscreenwallpaper">Lockscreen Wallpaper</string>
     <string name="pick_wallpaper">Wallpapers</string>
-    <string name="pref_keep_in_memory_summary">保证启动器在内存低时也不会退出</string>
-    <string name="pref_keep_in_memory_title">常驻内存</string>
-    <string name="pref_render_in_truecolor_summary">关闭此选项会在一定程度上提升绘图速度</string>
-    <string name="pref_render_in_truecolor_title">高质量绘图</string>
-    <string name="preferences_general_title">一般设置</string>
-    <string name="preferences_title">设置</string>
+    <string name="pref_keep_in_memory_summary">Keep application in memory, will not exit app.</string>
+    <string name="pref_keep_in_memory_title">Keep in Memory</string>
+    <string name="pref_render_in_truecolor_summary">Turn on to enhance performance.</string>
+    <string name="pref_render_in_truecolor_title">Hi-Res Graphics</string>
+    <string name="preferences_general_title">General Settings</string>
+    <string name="preferences_title">Preferences</string>
     <string name="process" />
     <string name="rename_action">OK</string>
     <string name="rename_folder_label">Folder name</string>
@@ -79,5 +79,5 @@
     <string name="widget_favorite_contacts_edit">Edit</string>
     <string name="widget_favorite_contacts_lable">Favorite Contacts</string>
     <string name="widget_favorite_contacts_style">Switch size</string>
-    <string name="widget_gadget_player">音乐_4x</string>
+    <string name="widget_gadget_player">Music_4x</string>
 </resources>
