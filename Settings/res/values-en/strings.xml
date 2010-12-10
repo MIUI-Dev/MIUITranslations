@@ -551,6 +551,10 @@
     <string name="language_settings_title">Language &amp; Input Settings</string>
     <string name="large_font">Large</string>
     <string name="launch_count_label">Count</string>
+    <string name="launcher_settings_title">启动器</string>
+    <string name="led_colors">LED灯颜色</string>
+    <string name="led_frequence">LED灯闪烁频率</string>
+    <string name="led_settings">LED灯</string>
     <string name="legal_information">Legal Information</string>
     <string name="license_title">License</string>
     <string name="link_speed_label">Link Speed:</string>
