@@ -34,7 +34,7 @@
     <string name="download_action_start">Start download</string>
     <string name="download_action_waiting">Waiting</string>
     <string name="download_album_settings">Automatically download album covers</string>
-    <string name="download_album_summary">Download album art (May take longer on mobile network, please consider using Wi-Fi)<string>
+    <string name="download_album_summary">Download album art (May take longer on mobile network, please consider using Wi-Fi)</string>
     <string name="download_all_album">Download all the album art</string>
     <string name="download_batch">Download all</string>
     <string name="download_cancel">Remove all downloads</string>
@@ -160,7 +160,7 @@
     <string name="sort_by_album">Sort by Album</string>
     <string name="sort_by_artist">Artists</string>
     <string name="sort_by_track">Sort by Song</string>
-    <string name="stop_when_wifi_disconnect">Wi-Fi connection has been lost, online songs have been stopped. If you want to listen to songs online using the operator's network, you can modify the settings.</string>
+    <string name="stop_when_wifi_disconnect">Wi-Fi connection has been lost, online songs have been stopped. If you want to listen to songs online using the operator\'s network, you can modify the settings.</string>
     <string name="streamloadingtext">Connecting %s</string>
     <string name="submit_feedback">Submit feedback!</string>
     <string name="to_album">Album</string>
