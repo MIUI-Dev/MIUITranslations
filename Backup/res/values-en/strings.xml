@@ -14,7 +14,7 @@
     <string name="backup_finished">Backup completed</string>
     <string name="backup_items">Backup items</string>
     <string name="backup_items_app_tailer">个程序</string>g>
-    <string name="backup_items_sysdata_tailer">类系统数据</string>ng>
+    <string name="backup_items_sysdata_tailer">类系统数据</string>
     <string name="backup_progress">Backing up...</string>
     <string name="backup_progress_post">Backup post-processing...</string>
     <string name="backup_recently">(Latest)</string>
@@ -68,5 +68,3 @@
     <string name="tab_sys">System</string>
     <string name="wifi_setting_name">Wi-Fi Settings</string>
 </resources>
-<?xml version="1.0" encoding="UTF-8"?>
-<resources>
