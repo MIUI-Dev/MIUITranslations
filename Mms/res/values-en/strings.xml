@@ -60,7 +60,7 @@
     <string name="confirm_rate_limit">A large number of multimedia messages are being sent. Is this OK?</string>
     <string name="contact_tab">Contact</string>
     <string name="contacts">Contacts</string>
-    <string name="conversation_theme_setting">自定义列表页</string>
+    <string name="conversation_theme_setting">Customize conversation theme</string>
     <string name="conversations_count_format">(%d Unread)</string>
     <string name="converstaion_list_tile">Conversations</string>
     <string name="converting_to_picture_message">Converting to multimedia message…</string>
@@ -71,7 +71,7 @@
     <string name="copy_to_sdcard_fail">Copying attachment to SD card failed</string>
     <string name="copy_to_sdcard_success">Attachment copied to SD card</string>
     <string name="create_new_message">Compose new message</string>
-    <string name="default_mms_theme_author_info">作者 : MIUI</string>
+    <string name="default_mms_theme_author_info">From: MIUI-Dev</string>
     <string name="delete">Delete</string>
     <string name="delete_message">Delete message</string>
     <string name="delete_thread">Delete thread</string>
@@ -195,7 +195,7 @@
     <string name="message_send_failed_title">Message not sent</string>
     <string name="message_send_read_report">A read report will be sent.</string>
     <string name="message_size_label">Message size:\u0020</string>
-    <string name="message_theme_setting">自定义对话页</string>
+    <string name="message_theme_setting">Customise message theme</string>
     <string name="message_too_big_for_video">The message is too big to attach a video.</string>
     <string name="message_type_label">Type:\u0020</string>
     <string name="messagelist_sender_self">I</string>
@@ -382,9 +382,9 @@
     <string name="theme_diy_title">Customize theme</string>
     <string name="theme_fresh_cartoon">Fresh</string>
     <string name="theme_message_page">Messaging</string>
-    <string name="theme_more">更多主题</string>
+    <string name="theme_more">More themes</string>
     <string name="theme_picturesque">Inked</string>
-    <string name="theme_select">选择主题</string>
+    <string name="theme_select">Select theme</string>
     <string name="theme_summary">Set the theme style, custom display style</string>
     <string name="theme_title">Themes</string>
     <string name="to_address_label">To:\u0020</string>
