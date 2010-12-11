@@ -336,9 +336,9 @@
     <string name="lunar_zheng">Is</string>
     <string name="me">Me</string>
     <string name="megabyteShort">MB</string>
-    <string name="menu_delete_shortcut_label">delete</string>
-    <string name="menu_enter_shortcut_label">enter</string>
-    <string name="menu_space_shortcut_label">space</string>
+    <string name="menu_delete_shortcut_label">Delete</string>
+    <string name="menu_enter_shortcut_label">Enter</string>
+    <string name="menu_space_shortcut_label">Space</string>
     <string name="midnight">midnight</string>
     <string name="minute">min</string>
     <string name="minutes">mins</string>
