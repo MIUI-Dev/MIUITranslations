@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <item type="string" name="default_wallpaper_component">@null</item>
     <string name="BaMmi">Call barring</string>
@@ -899,7 +899,7 @@
     <string name="upload_file">Choose file</string>
     <string name="usb_mode_charge_only">Charge only</string>
     <string name="usb_mode_dont_ask">Don\'t ask</string>
-    <string name="usb_mode_mount_storage">Charge &amp; Sync</string>
+    <string name="usb_mode_mount_storage">Mount SD Card</string>
     <string name="usb_mode_selection">Please select the USB connection type</string>
     <string name="usb_storage_activity_title">USB Mass Storage</string>
     <string name="usb_storage_button_mount">Turn on USB storage</string>

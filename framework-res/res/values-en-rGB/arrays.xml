@@ -146,7 +146,7 @@
     </string-array>
     <string-array name="usb_modes">
         <item>Charge only</item>
-        <item>Charge &amp; Sync</item>
+        <item>Charge and Sync</item>
     </string-array>
     <string-array name="networkAttributes">
         <item>wifi,1,1,1</item>
