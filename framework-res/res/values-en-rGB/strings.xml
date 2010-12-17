@@ -235,6 +235,7 @@
     <string name="httpErrorTooManyRequests">Too many requests are being processed. Try again later.</string>
     <string name="httpErrorUnsupportedAuthScheme">The site authentication scheme is not supported.</string>
     <string name="httpErrorUnsupportedScheme">The protocol is not supported.</string>
+    <string name="ignore">忽略</string>
     <string name="imProtocolAim">AIM</string>
     <string name="imProtocolCustom">Custom</string>
     <string name="imProtocolGoogleTalk">Google Talk</string>
@@ -345,6 +346,10 @@
     <string name="mismatchPin">The PINs you entered do not match.</string>
     <string name="mmiComplete">MMI complete.</string>
     <string name="mmiError">Connection problem or invalid MMI code.</string>
+    <string name="mobile_exceeded">流量已超%s</string>
+    <string name="mobile_traffic">本月手机上网已到%s，</string>
+    <string name="mobile_traffic_exceeded">本月手机上网已超%s</string>
+    <string name="monitor_traffic_title">手机流量监控</string>
     <string name="month">%-B</string>
     <string name="month_day">%B %-e</string>
     <string name="month_day_year">%B %-e, %Y</string>
@@ -838,6 +843,7 @@
     <string name="serviceErased">Erasure was successful.</string>
     <string name="serviceNotProvisioned">Service not provisioned.</string>
     <string name="serviceRegistered">Registration was successful.</string>
+    <string name="settings">设置</string>
     <string name="short_format_month">%b</string>
     <string name="shutdown_confirm">Your phone will shut down.</string>
     <string name="shutdown_progress">Shutting down…</string>
@@ -847,6 +853,9 @@
     <string name="sms_control_no">Cancel</string>
     <string name="sms_control_title">Sending SMS messages</string>
     <string name="sms_control_yes">OK</string>
+    <string name="sms_exceeded">短信已超%d条</string>
+    <string name="sms_traffic">本月短信已发%d条，</string>
+    <string name="sms_traffic_exceeded">本月短信已超%d条</string>
     <string name="status_bar_back_to_call">Touch here to return to the call</string>
     <string name="status_bar_battery_low_notification_button">Battery</string>
     <string name="status_bar_button_apn">Data</string>
@@ -870,6 +879,7 @@
     <string name="status_bar_latest_events_title">Notifications</string>
     <string name="status_bar_no_notifications_title">No notifications</string>
     <string name="status_bar_ongoing_events_title">Ongoing</string>
+    <string name="status_bar_traffic_title">手机数据监控，正在运行...</string>
     <string name="stopSelectingText">Stop selecting text</string>
     <string name="submit">Submit</string>
     <string name="sync_binding_label">Sync</string>
@@ -888,6 +898,9 @@
     <string name="time_wday_date">%1$s, %2$s, %3$s</string>
     <string name="today">Today</string>
     <string name="tomorrow">Tomorrow</string>
+    <string name="traffic_control_hint">您可在下方快捷停止连接噢～</string>
+    <string name="traffic_ok">正常</string>
+    <string name="traffic_settings_hint">是否超过本月上限？设置下数据监控吧</string>
     <string name="turn_off_radio">Turn off wireless</string>
     <string name="turn_on_radio">Turn on wireless</string>
     <string name="tutorial_double_tap_to_zoom_message_short">Tap twice for zoom control</string>
