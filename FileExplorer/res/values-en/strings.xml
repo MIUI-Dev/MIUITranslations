@@ -16,6 +16,7 @@
     <string name="category_zip">Zips</string>
     <string name="confirm">OK</string>
     <string name="confirm_know">Know</string>
+    <string name="enable_sd_card">SD卡不存在或正在进行数据传输</string>
     <string name="error_info_cant_send_folder">Folder cannot be transferred</string>
     <string name="fail_to_create_folder">Failed to create the folder, the folder already exists.</string>
     <string name="fail_to_rename">Failed to rename the file or folder as it already exists..</string>
