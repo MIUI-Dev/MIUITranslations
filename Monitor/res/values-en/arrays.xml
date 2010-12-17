@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="counter_names">
+        <item>Transferred today</item>
+        <item>Transferred this week</item>
+        <item>Transferred this month</item>
+        <item>Transferred last month</item>
+    </string-array>
+</resources>
