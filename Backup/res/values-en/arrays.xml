@@ -10,6 +10,7 @@
     </string-array>
     <string-array name="system_data_label">
         <item>Wi-Fi Settings</item>
+        <item>桌面布局位置</item>
     </string-array>
     <string-array name="app_type_desc">
         <item>(Data)</item>
