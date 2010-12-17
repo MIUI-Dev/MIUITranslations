@@ -72,12 +72,16 @@
     <string name="fail_to_start_stream">Cannot play the requested audio stream.</string>
     <string name="fast_scroll_alphabet">\u0020ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
     <string name="favorite_playlist">Favorites</string>
+    <string name="favorite_playlist_item">我喜欢的歌</string>
     <string name="feedback">Feedback</string>
     <string name="feedback_email">Please leave email for easy contact:</string>
     <string name="feedback_reminder">Network connection is not available, please try again</string>
     <string name="feedback_thanks">Thanks for your feedback</string>
+    <string name="filter_max">2M</string>
+    <string name="filter_min">0K</string>
     <string name="flow_save_hint">Flow hints</string>
     <string name="flow_save_hint_summary">Pop-up window to confirm download when using mobile network</string>
+    <string name="folder">文件夹</string>
     <string name="gadget_track">Tracks %d</string>
     <string name="goto_playback">Play</string>
     <string name="goto_start">Library</string>
@@ -96,6 +100,10 @@
     <string name="mediaplaybacklabel">Music</string>
     <string name="mediasearch">Use the following tools to search “%s”：</string>
     <string name="menu_download_manager">Download Manager</string>
+    <string name="min_muisic_size">最小音乐文件大小</string>
+    <string name="miui_folder">MIUI下载</string>
+    <string name="muisic_filter">文件过滤</string>
+    <string name="music_filter_helper">为了改善音乐体验，已经自动为您屏蔽小于800K的音频文件，因为他们一般不是歌曲。您可以通过\"菜单->设置\"来调整过滤的阈值或者禁用功能</string>
     <string name="music_picker_title">Select a track</string>
     <string name="musicbrowserlabel">Browse Music</string>
     <string name="musicshortcutlabel">Music Playlists</string>
@@ -126,6 +134,7 @@
     <string name="play_all">Play All</string>
     <string name="play_selection">Play selection</string>
     <string name="playback_failed">Sorry, the player does not support this type of audio file.</string>
+    <string name="playlist_and_folder">列表</string>
     <string name="playlist_deleted_message">Playlist has been deleted.</string>
     <string name="playlist_renamed_message">Play list has been renamed.</string>
     <string name="playlists_header">Playlists</string>
@@ -163,6 +172,7 @@
     <string name="stop_when_wifi_disconnect">Wi-Fi connection has been lost, online songs have been stopped. If you want to listen to songs online using the operator\'s network, you can modify the settings.</string>
     <string name="streamloadingtext">Connecting %s</string>
     <string name="submit_feedback">Submit feedback!</string>
+    <string name="sync_now">正在同步...</string>
     <string name="to_album">Album</string>
     <string name="to_artist">Artists</string>
     <string name="to_playlist">Playlists</string>
